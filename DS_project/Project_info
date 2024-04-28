@@ -1,0 +1,17 @@
+Iris Flower
+Description: Iris flower dataset containing sepal and petal measurements for three
+species of iris flowers.
+Find:
+● Print the names of all iris flowers with petal length greater than 5.
+● Sort and print the names of iris flowers with sepal width less than 3.
+● How many samples are there for each species?
+● Print the sepal length and width of iris flowers (non-null values) with petal width
+less than 1.
+● How many iris flowers have petal length greater than 6 and sepal width less than
+3?
+● How many samples are there for each species in total?
+● Print the names of iris flowers with sepal length greater than 7 and petal width
+less than 0.3.
+● Print the names of iris flowers with the highest and lowest petal lengths.
+● Find information about the iris flowers with the widest sepals.
+● Plot the distribution of petal lengths for each species
